@@ -1,0 +1,16 @@
+
+127.0.0.1 traefik.karsooghmehregan.ir
+127.0.0.1 front.karsooghmehregan.ir
+127.0.0.1 play.karsooghmehregan.ir
+127.0.0.1 room-api.karsooghmehregan.ir
+127.0.0.1 maps.karsooghmehregan.ir
+127.0.0.1 oidc.karsooghmehregan.ir
+127.0.0.1 map-storage.karsooghmehregan.ir
+127.0.0.1 xmpp.karsooghmehregan.ir
+127.0.0.1 matrix.karsooghmehregan.ir
+127.0.0.1 pusher.karsooghmehregan.ir
+127.0.0.1 uploader.karsooghmehregan.ir
+127.0.0.1 icon.karsooghmehregan.ir
+127.0.0.1 api.karsooghmehregan.ir
+127.0.0.1 redis.karsooghmehregan.ir
+127.0.0.1 grafana.localhost.pomerium.io
