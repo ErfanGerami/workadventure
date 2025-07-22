@@ -10,7 +10,7 @@
 # each option, go to docs/usage/configuration/config_documentation.md or
 # https://matrix-org.github.io/synapse/latest/usage/configuration/config_documentation.html
 server_name: "matrix.karsooghmehregan.ir"
-public_baseurl: http://matrix.karsooghmehregan.ir/
+public_baseurl: https://matrix.karsooghmehregan.ir/
 pid_file: /data/homeserver.pid
 listeners:
   - port: 8008
@@ -44,7 +44,7 @@ jwt_config:
 oidc_providers:
   - idp_id: oidc-server-mock
     idp_name: OIDC Server Mock
-    issuer: "http://oidc.karsooghmehregan.ir"
+    issuer: "https://oidc.karsooghmehregan.ir"
     skip_verification: true
     client_id: "authorization-code-client-id"
     client_secret: "authorization-code-client-secret"
@@ -75,8 +75,8 @@ oidc_providers:
 
 sso:
   client_whitelist:
-    - http://pusher.karsooghmehregan.ir/
-    - http://play.karsooghmehregan.ir/
+    - https://pusher.karsooghmehregan.ir/
+    - https://play.karsooghmehregan.ir/
 
 
 enable_registration: true
