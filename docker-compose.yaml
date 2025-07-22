@@ -154,7 +154,7 @@ services:
       #Chat
       MATRIX_API_URI: http://synapse:8008/
       MATRIX_PUBLIC_URI: https://matrix.karsooghmehregan.ir
-      MATRIX_ADMIN_USER: admin114
+      MATRIX_ADMIN_USER: admin120
       MATRIX_ADMIN_PASSWORD: MySecretPassword
       MATRIX_DOMAIN: matrix.karsooghmehregan.ir
       # oEmbed providers
@@ -480,7 +480,7 @@ services:
       LETSENCRYPT_HOST: "matrix.karsooghmehregan.ir"
       SYNAPSE_SERVER_NAME: "matrix.karsooghmehregan.ir"
       SYNAPSE_REPORT_STATS: "yes"
-      MATRIX_ADMIN_USER: admin114
+      MATRIX_ADMIN_USER: admin120
       MATRIX_ADMIN_PASSWORD: MySecretPassword
       JWT_SECRET: "$SECRET_KEY"
 
